@@ -3,4 +3,5 @@ Project started 2020-11-27
 Samples expected from sequencing core 2020-11-28
 
 
-Maize reference genome version: refgen3
+Maize reference genome version: refgen3, downloaded 2020-11-28 from
+http://maizegdb.org into `/share/data/refgen3/`.
